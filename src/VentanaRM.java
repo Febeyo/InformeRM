@@ -30,7 +30,7 @@ public class VentanaRM extends JFrame {
 	 */
 	public VentanaRM() {
 		getContentPane().setFont(new Font("Tahoma", Font.PLAIN, 11));
-		setIconImage(Toolkit.getDefaultToolkit().getImage("src/Imagen/Icononuevo.png"));
+		setIconImage(Toolkit.getDefaultToolkit().getImage("Imagen/Icononuevo.png"));
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		setBounds(10, 10, 1024, 800);
 	}
